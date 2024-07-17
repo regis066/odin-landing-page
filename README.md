@@ -4,9 +4,9 @@
 ## Project: Landing Page
 
 
-![LandingPageDesign](./images/01.png)
+![LandingPageDesign](./assets/01.png)
 
 
-![Colors&&FontStyles](./images/02.png)
+![Colors&&FontStyles](./assets/02.png)
 
 
