@@ -1,12 +1,14 @@
-# simple-odin-landing-page
+# Project: Landing Page
 
+## Technologies
+- HTML && CSS
 
-## Project: Landing Page
-
-
+## Design
 ![LandingPageDesign](./assets/01.png)
 
-
+## Colors && FontStyles Specification
 ![Colors&&FontStyles](./assets/02.png)
 
+## FINAL RESULT AFTER IMPLEMENTATION
+![result](./assets/result.png)
 
